@@ -17,11 +17,7 @@
 git clone https://github.com/Real-J/spam-email-detector.git
 cd spam-email-detector
 ```
-2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3️⃣ Run the script:
+2️⃣ Run the script:
 ```bash
 python spam_detector.py
 ```
